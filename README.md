@@ -5,3 +5,4 @@
 ![email-bíblia_03](https://github.com/user-attachments/assets/559fcaca-eb9c-4fd2-9ae5-6fe3bd4a6787)
 ![email-bíblia_02](https://github.com/user-attachments/assets/e8fb3c3a-5080-4c3b-94cb-377730976d5c)
 ![email-bíblia_01](https://github.com/user-attachments/assets/070a3ee4-1b5e-4311-aac8-e02073dda282)
+<img width="1350" height="527" alt="__07" src="https://github.com/user-attachments/assets/09b1665c-bd51-491c-87e4-2082c3676157" />
