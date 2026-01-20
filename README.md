@@ -1,8 +1,7 @@
-![email-bíblia_07](https://github.com/user-attachments/assets/7c20f094-cc0f-465c-8373-94efa6e162cd)
-![email-bíblia_06](https://github.com/user-attachments/assets/1664f4e2-80ae-486d-904d-c971390b0d08)
-![email-bíblia_05](https://github.com/user-attachments/assets/b6014c31-6d64-42ab-8794-8d373364045b)
-![email-bíblia_04](https://github.com/user-attachments/assets/cc161cdb-66cb-45ea-887f-e3aa569654e9)
-![email-bíblia_03](https://github.com/user-attachments/assets/559fcaca-eb9c-4fd2-9ae5-6fe3bd4a6787)
-![email-bíblia_02](https://github.com/user-attachments/assets/e8fb3c3a-5080-4c3b-94cb-377730976d5c)
-![email-bíblia_01](https://github.com/user-attachments/assets/070a3ee4-1b5e-4311-aac8-e02073dda282)
-<img width="1350" height="527" alt="__07" src="https://github.com/user-attachments/assets/09b1665c-bd51-491c-87e4-2082c3676157" />
+<img width="1350" height="527" alt="__07" src="https://github.com/user-attachments/assets/ff8d9a63-ea12-45e1-9635-e2485ff1437c" />
+<img width="1350" height="997" alt="__06" src="https://github.com/user-attachments/assets/6631f2ad-3dfa-4371-82a2-6d6abe4fd279" />
+<img width="1350" height="1010" alt="__05" src="https://github.com/user-attachments/assets/f3b4c2d3-bf44-40d3-9ce6-f7cb9fcbdae4" />
+<img width="1350" height="1192" alt="__04" src="https://github.com/user-attachments/assets/b82ea691-84bb-497e-bf72-e8ffef0270e0" />
+<img width="1350" height="1236" alt="__03" src="https://github.com/user-attachments/assets/eb163f65-0f58-4f61-abda-c54661da9306" />
+<img width="1350" height="574" alt="__02" src="https://github.com/user-attachments/assets/1d9c628e-23c7-46df-af83-31fdcddb6d5f" />
+<img width="1350" height="570" alt="__01" src="https://github.com/user-attachments/assets/de75a100-37ec-4eaf-834e-300b10b7209d" />
